@@ -26,9 +26,9 @@ message.delete();
         else{
             message.delete();
             message.channel.send(sender + " this bot only accepts commands which starts with '>' dot.");
-        }
-           });
-bot.login(process.env.BOT_TOKEN)
-    
+
+
+
+
 
 
