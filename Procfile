@@ -1,1 +1,1 @@
-worker: Only Trivia Answers bot.js
+worker:node bot.js
