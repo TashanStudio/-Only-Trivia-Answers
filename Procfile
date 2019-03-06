@@ -1,1 +1,1 @@
-rker: Only Trivia Answers bot.js
+worker: Only Trivia Answers bot.js
