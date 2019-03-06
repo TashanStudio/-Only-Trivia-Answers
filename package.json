@@ -5,7 +5,7 @@
     "main": "only Trivia-bot.js",
     "author": "Ankush Singh",
     "scripts": {
-        "start": "only Trivia Answers bot.js"
+        "start": "node bot.js"
     },
     "dependencies": {
 	"discord.js" : "11.2.1"
